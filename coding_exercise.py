@@ -1,20 +1,20 @@
 def f():
-    if !A:
+    if not A:
         s()
         return False
     z()
 
-    if !B:
+    if not B:
         t()
         return False
     y()
 
-    if !C:
+    if not C:
         u()
-        return False    
+        return False
     x()
 
-    if !D: 
+    if not D: 
         v()
         return False
     else:
