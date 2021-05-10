@@ -1,0 +1,22 @@
+def f():
+    if !A:
+        s()
+        return False
+    z()
+
+    if !B:
+        t()
+        return False
+    y()
+
+    if !C:
+        u()
+        return False    
+    x()
+
+    if !D: 
+        v()
+        return False
+    else:
+        w()
+        return True
